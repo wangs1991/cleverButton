@@ -1,6 +1,7 @@
 # response-buttons
 
-> A Vue.js project
+# cleverButton
+A Vue plugin of button that responds to user actions in real time.
 
 ## Build Setup
 
@@ -16,3 +17,4 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
